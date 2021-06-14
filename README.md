@@ -1,1 +1,3 @@
 # Quantum-Simulator-Location-Selector
+
+This solution solves a problem where physical locations need to be equipped with services or products to satisfy demand within a certain area, while minimizing costs. For example, selecting branch and ATM sites in banking domain, selecting locations for CCTVs or Air Quality sensors in cities, etc. For large instances(number of locations) this problem cannot be optimally solved classically as it becomes computationally complex and time-consuming. Simulated Quantum Annealing provides a better alternative to classical methods by drastically reducing the computing time while minimizing cost. It delivers the required parallelization to explore many possible combinations simultaneously.
